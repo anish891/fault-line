@@ -66,3 +66,7 @@ faultline demo --search linear  # attribute a planted failure in the toy world
   "inconclusive" rather than guessing.
 - The significance rule (`delta`, Wilson bound) is a heuristic. Validate it on planted faults
   before trusting it on real agents.
+
+## Author
+
+Built by [Anish Tejwani](https://anishtejwani.dev).
